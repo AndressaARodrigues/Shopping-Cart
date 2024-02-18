@@ -48,7 +48,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### ([React](https://reactjs.org/)  +  [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript))
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[Firebase](https://firebase.google.com/?hl=pt)**
 
 > Veja o arquivo  [package.json](package.json)
 
